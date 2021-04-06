@@ -26,7 +26,7 @@
   "dependencies": {},
   "devDependencies": {
     "@grpc/proto-loader": "^0.5.6",
-    "grpc": "^1.17.0",
+    "@grpc/grpc-js": "^1.2.12",
     "intelli-espower-loader": "^1.0.1",
     "mocha": "^5.2.0"
   }
